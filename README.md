@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barış Mert KADIOĞLU</h1>
-<h3 align="center">⚡ Electrical & Electronics Engineer | 💻 MSc in Computer Engineering | 🔬 Embedded Systems & AI Enthusiast</h3>
+<h3 align="center">⚡ Electrical & Electronics Engineer | 💻 MSc in Computer Engineering | 🔬 Embedded Systems & AI</h3>
 
 ---
 
