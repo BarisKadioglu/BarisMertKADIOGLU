@@ -74,15 +74,3 @@
 <a href="https://github.com/barismertkadioglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" /></a>
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barismertkadioglu&show_icons=true&theme=tokyonight" alt="stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barismertkadioglu&theme=tokyonight" alt="streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barismertkadioglu&layout=compact&theme=tokyonight" alt="langs"/>
-</p>
