@@ -5,7 +5,7 @@
 
 ## 🎓 About Me
 - 🎓 **Electrical & Electronics Engineer**  
-- 🎓 **M.Sc. Computer Engineering (Ongoing)**  
+- 🎓 **M.Sc. Computer Engineering**  
 - ✈️ Holder of **IHA-1 Pilot License**  
 - 💡 Passionate about **Embedded Systems, PCB Design, IoT, AI & Defense Technologies**
 
